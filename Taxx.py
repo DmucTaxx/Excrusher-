@@ -1,4 +1,4 @@
-#decode by ryhs
+#decode by 4LLB4
 import random
 import socket
 import threading
