@@ -1,5 +1,5 @@
 # Excrusher-
-this tool by community ( don't abuse )
+this tool by community (don't abuse)
 
 # git clone ( link )
 # ls
